@@ -59,7 +59,7 @@ This comprehensive analysis reveals a $37.7M value creation opportunity through 
 </td>
 <td width="60%" valign="top">
 
-<img width="650" height="447" alt="Distribution Analysis" src="https://github.com/user-attachments/assets/416dc983-4e94-42a8-b0ff-d099e408a0bd" style="width: 100%; max-width: 650px; height: auto;" />
+<img width="850" height="547" alt="image" src="https://github.com/user-attachments/assets/46edd6a1-c068-4ba1-b372-8666bda4319b" />
 
 </td>
 </tr>
@@ -87,7 +87,8 @@ This comprehensive analysis reveals a $37.7M value creation opportunity through 
 </td>
 <td width="60%" valign="top">
 
-<img width="1049" height="823" alt="Correlation Analysis" src="https://github.com/user-attachments/assets/e93c5ef5-99fa-4bc7-b031-176b1315ecc9" style="width: 100%; max-width: 1049px; height: auto;" />
+<img width="1049" height="823" alt="image" src="https://github.com/user-attachments/assets/ab3b26c9-3863-475f-8604-29cf90a2b034" />
+
 
 </td>
 </tr>
@@ -121,7 +122,8 @@ This comprehensive analysis reveals a $37.7M value creation opportunity through 
 </td>
 <td width="60%" valign="top">
 
-<img width="883" height="558" alt="Top 10 Vendor Purchase Contribution" src="https://github.com/user-attachments/assets/2b4020e7-9ad4-4538-9f19-e0c23f42f23d" style="width: 100%; max-width: 983px; height: auto;" />
+<img width="983" height="658" alt="image" src="https://github.com/user-attachments/assets/e270c174-c373-4bd3-89b8-e554c3cbac84" />
+
 
 - High vendor concentration creates supply chain vulnerability
 - Top vendor (DIAGEO) represents critical dependency
@@ -133,7 +135,7 @@ This comprehensive analysis reveals a $37.7M value creation opportunity through 
 
 ### Sales Performance Leaders
 
-![Top Vendors and Brands](https://github.com/user-attachments/assets/a432d9c8-2f32-4645-ad85-c525be85a329)
+<img width="1491" height="490" alt="image" src="https://github.com/user-attachments/assets/624d880e-2e60-4b7a-a622-a04c0816eb38" />
 
 <table style="width: 100%; max-width: 1200px;">
 <tr>
@@ -322,10 +324,7 @@ The analysis reveals a clear pathway to $37.7M value creation through systematic
 
 With disciplined execution of this strategic roadmap, the business will achieve $37.7M in value creation, establish supply chain resilience, and position itself for sustained profitable growth in the competitive spirits market.
 
-**Total Investment Required:** $700K  
-**Expected Return:** $15.9M  
-**ROI:** 2,171%  
-**Implementation Timeline:** 12 months
+**Total Investment Required:** $700K   | **Expected Return:** $15.9M   | **ROI:** 2,171%   | **Implementation Timeline:** 12 months
 
 ---
 <p align="center">

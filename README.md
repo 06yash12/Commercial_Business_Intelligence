@@ -1,6 +1,7 @@
 # Commercial Business Intelligence - Power BI Dashboard
 
-![VENDOR PERFORMANCE ANALYSIS (3)_page-0001](https://github.com/user-attachments/assets/111cec4d-bee3-4e49-9fa7-84aff20fb57d)
+![Commercial Business Intelligence - -_page-0001](https://github.com/user-attachments/assets/f4cc07db-fc9e-4f0f-b274-b445d0e40852)
+
 
 ## Overview
 
